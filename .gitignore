@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Środowiska wirtualne 
+venv/
+env/
+.env
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
