@@ -24,10 +24,13 @@ We organize our tools by textbook chapters or broad financial topics:
 
 ```
 ## How to Use:
-* Clone this repository to your local machine:
-  git clone [https://github.com/YOUR-USERNAME/financial-math-tools.git](https://github.com/YOUR-USERNAME/financial-math-tools.git)
-* Install the required dependencies (we use standard math and plotting libraries):
+* Clone this repository to your local machine: \
+  ```
+  git clone  [https://github.com/YOUR-USERNAME/financial-math-tools.git](https://github.com/YOUR-USERNAME/financial-math-tools.git)
+* Install the required dependencies (we use standard math and plotting libraries):\
+  ```
   pip install matplotlib numpy
+
 * Run the script! Navigate to the specific chapter folder and run the Python file. You can easily modify the parameters inside the script to solve your specific homework problems.
 
 ## How to Contribute (Open Source)
