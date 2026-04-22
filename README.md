@@ -23,25 +23,26 @@ We organize our tools by textbook chapters or broad financial topics:
     └── amortization/         # Waiting for contributions!
 
 ```
-How to Use:
+## How to Use:
 * Clone this repository to your local machine:
   git clone [https://github.com/YOUR-USERNAME/financial-math-tools.git](https://github.com/YOUR-USERNAME/financial-math-tools.git)
-*Install the required dependencies (we use standard math and plotting libraries):
+* Install the required dependencies (we use standard math and plotting libraries):
   pip install matplotlib numpy
-*Run the script! Navigate to the specific chapter folder and run the Python file. You can easily modify the parameters inside the script to solve your specific homework problems.
-How to Contribute (Open Source)
+* Run the script! Navigate to the specific chapter folder and run the Python file. You can easily modify the parameters inside the script to solve your specific homework problems.
+
+## How to Contribute (Open Source)
 This repository is open for all students taking Financial Mathematics. If you wrote a Python script that visualizes perpetuities, bond pricing, or amortization schedules, we want it here!
 
-Steps to contribute:
+### Steps to contribute:
 
-Fork this repository.
+* Fork this repository.
 
-Create a new folder for your topic in the tools/ directory (if it doesn't exist yet).
+* Create a new folder for your topic in the tools/ directory (if it doesn't exist yet).
 
-Add your Python script. Feel free to add a short README.md inside your specific folder explaining how your tool works.
+* Add your Python script. Feel free to add a short README.md inside your specific folder explaining how your tool works.
 
-Commit your changes and push them to your fork.
+* Commit your changes and push them to your fork.
 
-Open a Pull Request (PR) to our main repository.
+* Open a Pull Request (PR) to our main repository.
 
 We will review your code and merge it into the official collection!
